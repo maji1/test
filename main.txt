@@ -1,0 +1,5 @@
+include"studio.h"
+void main(void){
+	printf("hello world\n\r");
+
+}
